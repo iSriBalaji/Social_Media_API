@@ -1,1 +1,1 @@
-# Social Media Application
+# Social Media API with FastAPI in Python
